@@ -1,0 +1,43 @@
+{
+  "intents": [
+    {
+      "intent": "Forecast",
+      "slots": [
+        {
+          "name": "cityName",
+          "type": "AMAZON.US_CITY"
+        }
+      ]
+    },
+    {
+      "intent": "ForecastNow",
+      "slots": [
+        {
+          "name": "cityName",
+          "type": "AMAZON.US_CITY"
+        }
+      ]
+    },
+    {
+      "intent": "ForecastDay",
+      "slots": [
+        {
+          "name": "cityName",
+          "type": "AMAZON.US_CITY"
+        }
+      ]
+    },
+    {
+      "intent": "ForecastWeek",
+      "slots": [
+        {
+          "name": "cityName",
+          "type": "AMAZON.US_CITY"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
