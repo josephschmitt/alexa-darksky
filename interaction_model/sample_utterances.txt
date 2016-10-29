@@ -1,125 +1,139 @@
-Forecast weather in {cityName}
-Forecast about the weather in {cityName}
-Forecast for the weather in {cityName}
-Forecast what the weather is like in {cityName}
-Forecast what the weathers like in {cityName}
-Forecast what the weather is like in {cityName}
-Forecast what its like in {cityName}
-Forecast what its like right now in {cityName}
-Forecast what is the weather in {cityName}
-Forecast what the weather is in {cityName}
-Forecast what the conditions are in {cityName}
-Forecast what are the conditions in {cityName}
-Forecast what's the condition in {cityName}
-Forecast what its like in {cityName}
-Forecast what its like outside in {cityName}
-Forecast whats it like outside in {cityName}
-Forecast forecast in {cityName}
-Forecast forecast for the hour in {cityName}
-Forecast whats the forecast in {cityName}
-Forecast what the forecast for the hour is in {cityName}
-Forecast whats the forecast for the hour in {cityName}
-Forecast conditions for the hour in {cityName}
-Forecast what the conditions for the hour are in {cityName}
-Forecast what are the conditions in {cityName}
-Forecast what are the conditions for the hour in {cityName}
+SetLocation set my location to {Brooklyn New York|location}
+SetLocation my location is {Brooklyn New York|location}
+SetLocation my location is {Brooklyn New York|location}
+SetLocation {Brooklyn New York|location} is my location
+SetLocation Im currently in {Brooklyn New York|location}
+SetLocation Im currently at {Brooklyn New York|location}
+SetLocation Im in {Brooklyn New York|location}
+SetLocation I am in {Brooklyn New York|location}
+SetLocation I live in {Brooklyn New York|location}
+SetLocation I live at {Brooklyn New York|location}
+SetLocation Im located at {Brooklyn New York|location}
+SetLocation I am located at {Brooklyn New York|location}
 
-ForecastNow weather in {cityName} right now
-ForecastNow about the weather in {cityName} right now
-ForecastNow for the weather in {cityName} right now
-ForecastNow what the weather is like in {cityName} right now
-ForecastNow what the weathers like in {cityName} right now
-ForecastNow what the weather is like in {cityName} right now
-ForecastNow what its like in {cityName} right now
-ForecastNow what is the weather in {cityName} right now
-ForecastNow what the weather is in {cityName} right now
-ForecastNow what the conditions are in {cityName} right now
-ForecastNow what are the conditions in {cityName} right now
-ForecastNow what's the condition in {cityName} right now
-ForecastNow what its like in {cityName} right now
-ForecastNow what its like outside in {cityName} right now
-ForecastNow whats it like outside in {cityName} right now
-ForecastNow forecast in {cityName} right now
-ForecastNow forecast for the hour in {cityName} right now
-ForecastNow whats the forecast in {cityName} right now
-ForecastNow what the forecast for the hour is in {cityName} right now
-ForecastNow whats the forecast for the hour in {cityName} right now
-ForecastNow conditions for the hour in {cityName} right now
-ForecastNow what the conditions for the hour are in {cityName} right now
-ForecastNow what are the conditions in {cityName} right now
-ForecastNow what are the conditions for the hour in {cityName} right now
+Forecast forecast
+Forecast weather in {Brooklyn New York|location}
+Forecast about the weather in {Brooklyn New York|location}
+Forecast for the weather in {Brooklyn New York|location}
+Forecast what the weather is like in {Brooklyn New York|location}
+Forecast what the weathers like in {Brooklyn New York|location}
+Forecast what the weather is like in {Brooklyn New York|location}
+Forecast what its like in {Brooklyn New York|location}
+Forecast what its like right now in {Brooklyn New York|location}
+Forecast what is the weather in {Brooklyn New York|location}
+Forecast what the weather is in {Brooklyn New York|location}
+Forecast what the conditions are in {Brooklyn New York|location}
+Forecast what are the conditions in {Brooklyn New York|location}
+Forecast what's the condition in {Brooklyn New York|location}
+Forecast what its like in {Brooklyn New York|location}
+Forecast what its like outside in {Brooklyn New York|location}
+Forecast whats it like outside in {Brooklyn New York|location}
+Forecast forecast in {Brooklyn New York|location}
+Forecast forecast for the hour in {Brooklyn New York|location}
+Forecast whats the forecast in {Brooklyn New York|location}
+Forecast what the forecast for the hour is in {Brooklyn New York|location}
+Forecast whats the forecast for the hour in {Brooklyn New York|location}
+Forecast conditions for the hour in {Brooklyn New York|location}
+Forecast what the conditions for the hour are in {Brooklyn New York|location}
+Forecast what are the conditions in {Brooklyn New York|location}
+Forecast what are the conditions for the hour in {Brooklyn New York|location}
 
-ForecastDay weather in {cityName} for the hour
-ForecastDay about the weather in {cityName} for the hour
-ForecastDay for the weather in {cityName} for the hour
-ForecastDay what the weather is like in {cityName} for the hour
-ForecastDay what the weathers like in {cityName} for the hour
-ForecastDay what the weather is like in {cityName} for the hour
-ForecastDay what its like in {cityName} for the hour
-ForecastDay what is the weather in {cityName} for the hour
-ForecastDay what the weather is in {cityName} for the hour
-ForecastDay what the conditions are in {cityName} for the hour
-ForecastDay what are the conditions in {cityName} for the hour
-ForecastDay what's the condition in {cityName} for the hour
-ForecastDay what its like in {cityName} for the hour
-ForecastDay what its like outside in {cityName} for the hour
-ForecastDay whats it like outside in {cityName} for the hour
-ForecastDay forecast in {cityName} for the hour
-ForecastDay forecast for the hour in {cityName} for the hour
-ForecastDay whats the forecast in {cityName} for the hour
-ForecastDay what the forecast for the hour is in {cityName} for the hour
-ForecastDay whats the forecast for the hour in {cityName} for the hour
-ForecastDay conditions for the hour in {cityName} for the hour
-ForecastDay what the conditions for the hour are in {cityName} for the hour
-ForecastDay what are the conditions in {cityName} for the hour
-ForecastDay what are the conditions for the hour in {cityName} for the hour
+ForecastNow weather in {Brooklyn New York|location} right now
+ForecastNow about the weather in {Brooklyn New York|location} right now
+ForecastNow for the weather in {Brooklyn New York|location} right now
+ForecastNow what the weather is like in {Brooklyn New York|location} right now
+ForecastNow what the weathers like in {Brooklyn New York|location} right now
+ForecastNow what the weather is like in {Brooklyn New York|location} right now
+ForecastNow what its like in {Brooklyn New York|location} right now
+ForecastNow what is the weather in {Brooklyn New York|location} right now
+ForecastNow what the weather is in {Brooklyn New York|location} right now
+ForecastNow what the conditions are in {Brooklyn New York|location} right now
+ForecastNow what are the conditions in {Brooklyn New York|location} right now
+ForecastNow what's the condition in {Brooklyn New York|location} right now
+ForecastNow what its like in {Brooklyn New York|location} right now
+ForecastNow what its like outside in {Brooklyn New York|location} right now
+ForecastNow whats it like outside in {Brooklyn New York|location} right now
+ForecastNow forecast in {Brooklyn New York|location} right now
+ForecastNow forecast for the hour in {Brooklyn New York|location} right now
+ForecastNow whats the forecast in {Brooklyn New York|location} right now
+ForecastNow what the forecast for the hour is in {Brooklyn New York|location} right now
+ForecastNow whats the forecast for the hour in {Brooklyn New York|location} right now
+ForecastNow conditions for the hour in {Brooklyn New York|location} right now
+ForecastNow what the conditions for the hour are in {Brooklyn New York|location} right now
+ForecastNow what are the conditions in {Brooklyn New York|location} right now
+ForecastNow what are the conditions for the hour in {Brooklyn New York|location} right now
 
-ForecastWeek weather in {cityName} for the week
-ForecastWeek about the weather in {cityName} for the week
-ForecastWeek for the weather in {cityName} for the week
-ForecastWeek what the weather is like in {cityName} for the week
-ForecastWeek what the weathers like in {cityName} for the week
-ForecastWeek what the weather is like in {cityName} for the week
-ForecastWeek what its like in {cityName} for the week
-ForecastWeek what is the weather in {cityName} for the week
-ForecastWeek what the weather is in {cityName} for the week
-ForecastWeek what the conditions are in {cityName} for the week
-ForecastWeek what are the conditions in {cityName} for the week
-ForecastWeek what's the condition in {cityName} for the week
-ForecastWeek what its like in {cityName} for the week
-ForecastWeek what its like outside in {cityName} for the week
-ForecastWeek whats it like outside in {cityName} for the week
-ForecastWeek forecast in {cityName} for the week
-ForecastWeek forecast for the hour in {cityName} for the week
-ForecastWeek whats the forecast in {cityName} for the week
-ForecastWeek what the forecast for the hour is in {cityName} for the week
-ForecastWeek whats the forecast for the hour in {cityName} for the week
-ForecastWeek conditions for the hour in {cityName} for the week
-ForecastWeek what the conditions for the hour are in {cityName} for the week
-ForecastWeek what are the conditions in {cityName} for the week
-ForecastWeek what are the conditions for the hour in {cityName} for the week
+ForecastDay weather in {Brooklyn New York|location} for the hour
+ForecastDay about the weather in {Brooklyn New York|location} for the hour
+ForecastDay for the weather in {Brooklyn New York|location} for the hour
+ForecastDay what the weather is like in {Brooklyn New York|location} for the hour
+ForecastDay what the weathers like in {Brooklyn New York|location} for the hour
+ForecastDay what the weather is like in {Brooklyn New York|location} for the hour
+ForecastDay what its like in {Brooklyn New York|location} for the hour
+ForecastDay what is the weather in {Brooklyn New York|location} for the hour
+ForecastDay what the weather is in {Brooklyn New York|location} for the hour
+ForecastDay what the conditions are in {Brooklyn New York|location} for the hour
+ForecastDay what are the conditions in {Brooklyn New York|location} for the hour
+ForecastDay what's the condition in {Brooklyn New York|location} for the hour
+ForecastDay what its like in {Brooklyn New York|location} for the hour
+ForecastDay what its like outside in {Brooklyn New York|location} for the hour
+ForecastDay whats it like outside in {Brooklyn New York|location} for the hour
+ForecastDay forecast in {Brooklyn New York|location} for the hour
+ForecastDay forecast for the hour in {Brooklyn New York|location} for the hour
+ForecastDay whats the forecast in {Brooklyn New York|location} for the hour
+ForecastDay what the forecast for the hour is in {Brooklyn New York|location} for the hour
+ForecastDay whats the forecast for the hour in {Brooklyn New York|location} for the hour
+ForecastDay conditions for the hour in {Brooklyn New York|location} for the hour
+ForecastDay what the conditions for the hour are in {Brooklyn New York|location} for the hour
+ForecastDay what are the conditions in {Brooklyn New York|location} for the hour
+ForecastDay what are the conditions for the hour in {Brooklyn New York|location} for the hour
 
-ForecastWeek weather in {cityName} this week
-ForecastWeek about the weather in {cityName} this week
-ForecastWeek for the weather in {cityName} this week
-ForecastWeek what the weather is like in {cityName} this week
-ForecastWeek what the weathers like in {cityName} this week
-ForecastWeek what the weather is like in {cityName} this week
-ForecastWeek what its like in {cityName} this week
-ForecastWeek what is the weather in {cityName} this week
-ForecastWeek what the weather is in {cityName} this week
-ForecastWeek what the conditions are in {cityName} this week
-ForecastWeek what are the conditions in {cityName} this week
-ForecastWeek what's the condition in {cityName} this week
-ForecastWeek what its like in {cityName} this week
-ForecastWeek what its like outside in {cityName} this week
-ForecastWeek whats it like outside in {cityName} this week
-ForecastWeek forecast in {cityName} this week
-ForecastWeek forecast for the hour in {cityName} this week
-ForecastWeek whats the forecast in {cityName} this week
-ForecastWeek what the forecast for the hour is in {cityName} this week
-ForecastWeek whats the forecast for the hour in {cityName} this week
-ForecastWeek conditions for the hour in {cityName} this week
-ForecastWeek what the conditions for the hour are in {cityName} this week
-ForecastWeek what are the conditions in {cityName} this week
-ForecastWeek what are the conditions for the hour in {cityName} this week
+ForecastWeek weather in {Brooklyn New York|location} for the week
+ForecastWeek about the weather in {Brooklyn New York|location} for the week
+ForecastWeek for the weather in {Brooklyn New York|location} for the week
+ForecastWeek what the weather is like in {Brooklyn New York|location} for the week
+ForecastWeek what the weathers like in {Brooklyn New York|location} for the week
+ForecastWeek what the weather is like in {Brooklyn New York|location} for the week
+ForecastWeek what its like in {Brooklyn New York|location} for the week
+ForecastWeek what is the weather in {Brooklyn New York|location} for the week
+ForecastWeek what the weather is in {Brooklyn New York|location} for the week
+ForecastWeek what the conditions are in {Brooklyn New York|location} for the week
+ForecastWeek what are the conditions in {Brooklyn New York|location} for the week
+ForecastWeek what's the condition in {Brooklyn New York|location} for the week
+ForecastWeek what its like in {Brooklyn New York|location} for the week
+ForecastWeek what its like outside in {Brooklyn New York|location} for the week
+ForecastWeek whats it like outside in {Brooklyn New York|location} for the week
+ForecastWeek forecast in {Brooklyn New York|location} for the week
+ForecastWeek forecast for the hour in {Brooklyn New York|location} for the week
+ForecastWeek whats the forecast in {Brooklyn New York|location} for the week
+ForecastWeek what the forecast for the hour is in {Brooklyn New York|location} for the week
+ForecastWeek whats the forecast for the hour in {Brooklyn New York|location} for the week
+ForecastWeek conditions for the hour in {Brooklyn New York|location} for the week
+ForecastWeek what the conditions for the hour are in {Brooklyn New York|location} for the week
+ForecastWeek what are the conditions in {Brooklyn New York|location} for the week
+ForecastWeek what are the conditions for the hour in {Brooklyn New York|location} for the week
+
+ForecastWeek weather in {Brooklyn New York|location} this week
+ForecastWeek about the weather in {Brooklyn New York|location} this week
+ForecastWeek for the weather in {Brooklyn New York|location} this week
+ForecastWeek what the weather is like in {Brooklyn New York|location} this week
+ForecastWeek what the weathers like in {Brooklyn New York|location} this week
+ForecastWeek what the weather is like in {Brooklyn New York|location} this week
+ForecastWeek what its like in {Brooklyn New York|location} this week
+ForecastWeek what is the weather in {Brooklyn New York|location} this week
+ForecastWeek what the weather is in {Brooklyn New York|location} this week
+ForecastWeek what the conditions are in {Brooklyn New York|location} this week
+ForecastWeek what are the conditions in {Brooklyn New York|location} this week
+ForecastWeek what's the condition in {Brooklyn New York|location} this week
+ForecastWeek what its like in {Brooklyn New York|location} this week
+ForecastWeek what its like outside in {Brooklyn New York|location} this week
+ForecastWeek whats it like outside in {Brooklyn New York|location} this week
+ForecastWeek forecast in {Brooklyn New York|location} this week
+ForecastWeek forecast for the hour in {Brooklyn New York|location} this week
+ForecastWeek whats the forecast in {Brooklyn New York|location} this week
+ForecastWeek what the forecast for the hour is in {Brooklyn New York|location} this week
+ForecastWeek whats the forecast for the hour in {Brooklyn New York|location} this week
+ForecastWeek conditions for the hour in {Brooklyn New York|location} this week
+ForecastWeek what the conditions for the hour are in {Brooklyn New York|location} this week
+ForecastWeek what are the conditions in {Brooklyn New York|location} this week
+ForecastWeek what are the conditions for the hour in {Brooklyn New York|location} this week

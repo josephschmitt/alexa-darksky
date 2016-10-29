@@ -1,27 +1,38 @@
 {
   "session": {
-    "sessionId": "SessionId.5f04be18-ea0f-4d2b-913d-878bddd28b40",
+    "sessionId": "SessionId.b24fdd84-9e05-47a4-aa12-cc713e87abbc",
     "application": {
       "applicationId": "amzn1.echo-sdk-ams.app.4d1859bf-5f56-4fed-8908-beb470f1a480"
+    },
+    "attributes": {
+      "originalRequestData": {
+	"name": "Forecast",
+	"slots": {
+	  "location": {
+	    "name": "location"
+	  }
+	}
+      }
     },
     "user": {
       "userId": "amzn1.ask.account.AFP3ZWPOS2BGJR7OWJZ3DHPKMOMNWY4AY66FUR7ILBWANIHQN73QGLHZZSKUBHRYCAXRNEQ5X654DH7OEPMKWM24HVLBLH2BBTSSMIP5H33E74YVAQDAG4K6SJ5DY7NTAD4HHFQJ24NITBY3KLRB4X7KJY2524Y7ETSME3XVKNSCSQCIMSVEE3ZDMBASRNK6MAVKAVQVMW2IRYQ"
     },
-    "new": true
+    "new": false
   },
   "request": {
     "type": "IntentRequest",
-    "requestId": "EdwRequestId.e61f9d02-10b4-4c03-b730-4f6881fd91ee",
-    "timestamp": "2016-04-06T03:24:50Z",
+    "requestId": "EdwRequestId.41ee230d-f9cc-4d54-92aa-4015208434c9",
+    "timestamp": "2016-04-12T03:51:12Z",
     "intent": {
-      "name": "Forecast",
+      "name": "SetLocation",
       "slots": {
-        "cityName": {
-          "name": "cityName",
-          "value": "Brooklyn"
+	"location": {
+	  "name": "location",
+	  "value": "brooklyn"
         }
       }
-    }
+    },
+    "locale": "en-US"
   },
   "version": "1.0"
 }

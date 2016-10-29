@@ -1,9 +1,7 @@
-'use strict';
+import alexa from 'alexa-app';
+import handlers from './handlers.js';
 
-var alexa = require('alexa-app');
-var handlers = require('./handlers.js');
-
-var app = new alexa.app();
+const app = new alexa.app();
 
 app.launch(handlers.handleLaunchIntent);
 app.intent('SetLocation', handlers.handleLocationIntent);
@@ -13,4 +11,4 @@ app.intent('ForecastDay', handlers.handleDayForecast);
 app.intent('ForecastWeek', handlers.handleWeekForecast);
 app.intent('AMAZON.HelpIntent', handlers.handleHelpIntent);
 
-module.exports = app;
+export default app;

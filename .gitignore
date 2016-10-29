@@ -2,3 +2,4 @@ node_modules/
 bundle/
 lambda.zip
 deploy.env
+dist
